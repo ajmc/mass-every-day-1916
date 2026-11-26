@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this text, please cite it as below, and cite the original book as well."
+title: "The Mass Every Day of the Year (Kenedy, 1916): the Roman Missal in English, a corrected text from two scans"
+type: dataset
+authors:
+  - family-names: McAlorum
+    given-names: Andrew
+    orcid: "https://orcid.org/0009-0001-0877-2043"
+license: CC0-1.0
+repository-code: "https://github.com/ajmc/mass-every-day-1916"
+url: "https://wayofsaints.com"
+keywords:
+  - Catholic
+  - transcription
+  - OCR
+  - public domain
+  - digital humanities
